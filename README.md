@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CianGallagher
 - 👀 I’m interested in making my ideas real! 
-- 🌱 I’m currently learning the basic web stack - HTML/CSS/JS
+- 🌱 I’m currently learning the web stack - HTML/CSS/JS
 - 💞️ I’m looking to collaborate on anything that solves a real problem/challenge!
 - 📫 How to reach me https://www.linkedin.com/in/cian-gallagher-413803177/
 
