@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CianGallagher
 - 👀 I’m interested in building interesting solutions! 
-- 🌱 I’m currently learning the web stack - HTML/CSS/JS
+- 🌱 Currently earning web stack - HTML/CSS/JS - Interested in learning Kotlin/Java, Python, and C
 - 💞️ I’m looking to collaborate on anything that solves a real problem/challenge!
 - 📫 How to reach me https://www.linkedin.com/in/cian-gallagher-413803177/
