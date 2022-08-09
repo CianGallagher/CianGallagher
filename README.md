@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CianGallagher
+- 👋 Hi, I’m @CianGallagher 
 - 👀 I’m interested in building interesting solutions and learning! 
-- 🌱 Python is where I started my journey...Currently learning Database tech such as SQL, MySQL, PostgreSQL, ... Future likely to involve ML or Blockchain tech .
+- 🌱 Python is my favourite language...Currently learning Database tech such as SQL, MySQL, PostgreSQL, ... In the future I'd like to learn a compiled language.
 - 💞️ I’m looking to collaborate on anything that solves a real problem/challenge and sharpens my skills!
-- 📫 How to reach me https://www.linkedin.com/in/cianegallagher/ or ciangall1@gmail.com
+- 📫 How to reach me https://linktr.ee/ciangallagher
